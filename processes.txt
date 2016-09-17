@@ -1,0 +1,3 @@
+putty.exe
+notepad.exe
+wordpad.exe
